@@ -22,6 +22,7 @@ Explore my portfolio showcasing impactful data analysis projects, insightful vis
 - Python
 - Excel
 - Power BI
+- Tableau
 
 ## Education
 I hold a Bachelor of Science (BSc) degree in Physics from the University of Ilorin. My education has equipped me with a strong foundation in scientific principles, analytical thinking, and problem-solving skills. I have applied this knowledge effectively in data analysis, visualization, and machine learning, contributing to successful projects and driving data-driven insights for strategic decision-making.
@@ -34,6 +35,6 @@ I hold a Bachelor of Science (BSc) degree in Physics from the University of Ilor
 Check out my detailed resume [here]() for more information about my experience,skills and achievements.
 
 ## Contact
-Let's connect and discuss potential opportunities! Reach out to me via [Segun Bakare][segunbakere@gmail.com, ]
+Let's connect and discuss potential opportunities! Reach out to me via [email](segunbakere@gmail.com)
 
 I am excited about leveraging my skills and expertise to drive data-driven strategies and contribute to impactful projetcs.
