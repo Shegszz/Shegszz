@@ -29,12 +29,12 @@ I hold a Bachelor of Science (BSc) degree in Physics from the University of Ilor
 
 ## Certifications
 - Google Data Analytics from [Coursera]
-- Data Analyst from [DataCamp]
+- Data Analyst from [DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/76b612084e4516ead772e4084f81747d58e5c839)
 
 ## Resume
 Check out my detailed resume [here]() for more information about my experience,skills and achievements.
 
 ## Contact
-Let's connect and discuss potential opportunities! Reach out to me via [email](segunbakere@gmail.com)
+Let's connect and discuss potential opportunities! Reach out to me via [segunbakare.d@gmail.com](mailto:segunbakare.d@gmail.com)
 
 I am excited about leveraging my skills and expertise to drive data-driven strategies and contribute to impactful projetcs.
