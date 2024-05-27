@@ -31,7 +31,7 @@ I hold a Bachelor of Science (BSc) degree in Physics from the University of Ilor
 
 ## Certifications
 - Google Data Analytics from [Coursera](https://www.credly.com/badges/45006781-146d-4205-9a95-60948117c2b5)
-- Google Project Management[Coursera](https://www.credly.com/badges/f9c7a16d-ccc3-43b1-a250-7de7baaf07f9/)
+- Google Project Management [Coursera](https://www.credly.com/badges/f9c7a16d-ccc3-43b1-a250-7de7baaf07f9/)
 - Data Analyst from [DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/76b612084e4516ead772e4084f81747d58e5c839)
 
 ## Resume
