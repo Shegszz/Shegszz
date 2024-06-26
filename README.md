@@ -12,10 +12,11 @@ A passionate Data Analyst with expertise in SQL, Python, Excel, and Power BI. I 
 - [Contact](#contact)
 
 ## About Me
-- I excel in data analysis, data visualization, and machine learning, leveraging SQL for data manipulation, Python for predictive modeling and automation, Excel for advanced analytics, and Power BI for interactive dashboards.
+- I excel in data analysis, data visualization, and machine learning, leveraging SQL for data manipulation, Python for predictive modeling and automation, Excel for advanced analytics, and Tableau/Power BI for interactive dashboards.
 - Always excited and ready to learn new skills.
-- I am currently working on a series of Tableau dashboards for my portfolio website while learning the R programming language.
-- Ask me about about data analytics Stuffs
+- I am currently working on a series of Tableau dashboards for my portfolio website. Dashboards are pretty much interesting; every day there's something to learn.
+- Ask me about about data analytics Stuffs.
+- Music is how i relax.
 
 ## Portfolio Projects
 Explore my portfolio showcasing impactful data analysis projects, insightful visualizations, and predictive modeling using SQL, Python, Excel, and Power BI.
