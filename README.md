@@ -37,7 +37,7 @@ I hold a Bachelor of Science (BSc) degree in Physics from the University of Ilor
 - Data Analyst from [DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/76b612084e4516ead772e4084f81747d58e5c839)
 
 ## Resume
-Check out my detailed resume [here]() for more information about my experience,skills and achievements.
+Check out my detailed resume [here](https://onedrive.live.com/?cid=ACF8412A88BE18AD&id=acf8412a88be18ad%21380&parId=acf8412a88be18ad%21105&o=OneUp) for more information about my experience,skills and achievements.
 
 ## Contact
 Let's connect and discuss potential opportunities! Reach out to me via [email](mailto:segunbakare.d@gmail.com)
