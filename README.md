@@ -14,8 +14,15 @@ A passionate Data Analyst with expertise in SQL, Python, Excel, and Power BI. I 
 ## About Me
 - I excel in data analysis, data visualization, and machine learning, leveraging SQL for data manipulation, Python for predictive modeling and automation, Excel for advanced analytics, and Tableau/Power BI for interactive dashboards.
 - Always excited and ready to learn new skills.
-- I am currently working on a series of Tableau dashboards for my portfolio website. Dashboards are pretty much interesting; every day there's something to learn.
-- Ask me about about data analytics Stuffs.
+- My Current Interests and Learning Path:
+💻 Microsoft Fabric
+⌨️ Microsoft Azure 
+🛠️SQL Server Developer
+🔎 Open Source
+- I am currently working on a series of projects and Tableau interactive dashboards to enhance my data analytics skills.
+👀 What am I looking for?
+- Collaboration with other Data Analysts and  data professionals on data analytics projects.
+- Job opportunities - Junior Data Analyst/Internship roles.
 - Music is how i relax.
 
 ## Portfolio Projects
