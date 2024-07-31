@@ -25,7 +25,7 @@ A passionate Data Analyst with expertise in SQL, Python, Excel, and Power BI. I 
 - Watching football and listening to Music is how i relax.
 
 ## 👨‍💻 Portfolio Projects
-Explore my [portfolio](Shegszz.github.io) showcasing impactful data analysis projects, insightful visualizations, and predictive modeling using SQL, Python, Excel, and Power BI.
+Explore my [portfolio](https://shegszz.github.io/) showcasing impactful data analysis projects, insightful visualizations, and predictive modeling using SQL, Python, Excel, and Power BI.
 
 ## 🛠️ Skills & Technologies
 
