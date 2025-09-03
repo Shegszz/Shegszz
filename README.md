@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Segun
-A passionate Data Analyst with expertise in SQL, Python, Excel, and Power BI. I specialize in transforming complex data into actionable insights, driving strategic decision-making, and optimizing business processes through data-driven solutions.
+A Data Analyst with expertise in SQL, Python, Excel, Tableau, and Power BI. I specialize in transforming complex data into actionable insights, driving strategic decision-making, and optimizing business processes through data-driven solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shegszz&label=Profile%20views&color=0e75b6&style=flat" alt=""/></p>
 
 ## Table of Contents
@@ -13,19 +13,19 @@ A passionate Data Analyst with expertise in SQL, Python, Excel, and Power BI. I 
 - [Contact](#contact)
 
 ## About Me
-- I excel in data analysis, data visualization, and machine learning, leveraging SQL for data manipulation, Python for predictive modeling and automation, Excel for advanced analytics, and Tableau/Power BI for interactive dashboards.
-- Always excited and ready to learn new skills.
-- My Current Interests and Learning Path:
-💻 Microsoft Fabric
-⌨️ Microsoft Azure 
--🔭 I am currently working on a series of projects and Tableau interactive dashboards to enhance my data analytics skills.
-👀 What am I looking for?
-- Collaboration on **Data Analytics & Machine Learning projects**.
-- Job opportunities - **Junior Data Analyst/Internship roles**.
-- Watching football and listening to Music is how i relax.
+- My work spans analytics, AI, and automation, building tools and workflows that make data-driven decisions faster and smarter
+
+### WHAT I DO:
+
+- Data Analysis & Visualization(SQL, Python, Tableau, Power BI)
+- AI & Automation (workflow optimization, APIs, predictive modeling)
+- Project & Workflow Management (turning ideas into executed solutions)
+
+I'm currently building projects that bridge analytics with automation, making data more accessible and useful for everyone.
+
 
 ## 👨‍💻 Portfolio Projects
-Explore my [portfolio](https://shegszz.github.io/) showcasing impactful data analysis projects, insightful visualizations, and predictive modeling using SQL, Python, Excel, and Power BI.
+Explore my [portfolio](https://shegszz.github.io/) showcasing impactful data analysis projects, insightful visualizations, and predictive modeling using SQL, Python, Excel, Tableau, and Power BI.
 
 ## 🛠️ Skills & Technologies
 
@@ -136,19 +136,20 @@ Explore my [portfolio](https://shegszz.github.io/) showcasing impactful data ana
 </p>
 
 ## Education
-I hold a Bachelor of Science (BSc) degree in Physics from the University of Ilorin. My education has equipped me with a strong foundation in scientific principles, analytical thinking, and problem-solving skills. I have applied this knowledge effectively in data analysis, visualization, and machine learning, contributing to successful projects and driving data-driven insights for strategic decision-making.
+I hold a Bachelor of Science (BSc) degree in Physics from the University of Ilorin.
 
 ## Certifications
 - Google Data Analytics from [Coursera](https://www.credly.com/badges/45006781-146d-4205-9a95-60948117c2b5)
 - Google Project Management [Coursera](https://www.credly.com/badges/f9c7a16d-ccc3-43b1-a250-7de7baaf07f9/)
 - Data Analyst from [DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/76b612084e4516ead772e4084f81747d58e5c839)
-
+- Workflow Specialist Certificate [Asana](https://certifications.asana.com/1a56fd5d-8733-4ece-afd2-f33df642b9e6)
+- AI for Work Skill Badge [Asana](https://certifications.asana.com/4b560af6-dfc0-4d90-912f-06fe4b22c3ad)
+  
 ## Resume
 Check out my detailed resume [here](https://onedrive.live.com/?cid=ACF8412A88BE18AD&id=acf8412a88be18ad%21380&parId=acf8412a88be18ad%21105&o=OneUp) for more information about my experience,skills and achievements.
 
 ## Contact
 Let's connect and discuss potential opportunities! Reach out to me via [email](mailto:segunbakare.d@gmail.com)
-I am excited about leveraging my skills and expertise to drive data-driven strategies and contribute to impactful projetcs.
 
 ## 📈 GitHub Stats
 <p align="center">
