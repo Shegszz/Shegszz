@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Segun
-A Data Analyst with expertise in SQL, Python, Excel, Tableau, and Power BI. I specialize in transforming complex data into actionable insights, driving strategic decision-making, and optimizing business processes through data-driven solutions.
+
+I specialize in **automated data pipelines** and **self-updating analytics systems** that eliminate manual reporting work.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shegszz&label=Profile%20views&color=0e75b6&style=flat" alt=""/></p>
 
 ## Table of Contents
@@ -15,17 +17,23 @@ A Data Analyst with expertise in SQL, Python, Excel, Tableau, and Power BI. I sp
 ## About Me
 - My work spans analytics, AI, and automation, building tools and workflows that make data-driven decisions faster and smarter
 
-### WHAT I DO:
+### My Approach:
+1. **Identify repetitive data tasks** → Manual reporting, data pulls, dashboard updates
+2. **Build automated pipelines** → Python scripts + APIs + workflow automation
+3. **Deploy self-maintaining systems** → GitHub Actions, scheduled jobs, error handling, ETL workflows
+4. **Deliver fresh insights automatically** → Dashboards that update themselves
 
-- Data Analysis & Visualization(SQL, Python, Tableau, Power BI)
-- AI & Automation (workflow optimization, APIs, predictive modeling)
-- Project & Workflow Management (turning ideas into executed solutions)
+### Example: Automated FPL Analytics Pipeline (Check my FPL-Script-Automation Repository)
+- Fetches data from API daily (zero manual work)
+- Cleans & processes 500+ records automatically
+- Updates predictive models and visualizations
+- 100% automated using GitHub Actions
 
-I'm currently building projects that bridge analytics with automation, making data more accessible and useful for everyone.
+**Same methodology works for:** Sales reporting, marketing analytics, financial dashboards, customer insights - any business that needs fresh data regularly.
 
 
 ## 👨‍💻 Portfolio Projects
-Explore my [portfolio](https://shegszz.github.io/) showcasing impactful data analysis projects, insightful visualizations, and predictive modeling using SQL, Python, Excel, Tableau, and Power BI.
+Explore my [portfolio](https://shegszz.github.io/).
 
 ## 🛠️ Skills & Technologies
 
