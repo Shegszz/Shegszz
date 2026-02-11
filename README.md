@@ -33,7 +33,7 @@ I specialize in **automated data pipelines** and **self-updating analytics syste
 
 
 ## 👨‍💻 Portfolio Projects
-Explore my [portfolio](https://shegszz.github.io/).
+Explore [My Portfolio](https://shegszz.github.io/).
 
 ## 🛠️ Skills & Technologies
 
@@ -144,7 +144,7 @@ Explore my [portfolio](https://shegszz.github.io/).
 </p>
 
 ## Education
-I hold a Bachelor of Science (BSc) degree in Physics from the University of Ilorin.
+BSc. Physics
 
 ## Certifications
 - Google Data Analytics from [Coursera](https://www.credly.com/badges/45006781-146d-4205-9a95-60948117c2b5)
