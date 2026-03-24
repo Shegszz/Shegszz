@@ -15,7 +15,7 @@ I specialize in **automated data pipelines** and **self-updating analytics syste
 - [Contact](#contact)
 
 ## About Me
-- My work spans analytics, AI, and automation, building tools and workflows that make data-driven decisions faster and smarter
+My work spans analytics and automation, building pipelines and workflows that make data-driven decisions faster and smarter.
 
 ### My Approach:
 1. **Identify repetitive data tasks** → Manual reporting, data pulls, dashboard updates
@@ -23,7 +23,7 @@ I specialize in **automated data pipelines** and **self-updating analytics syste
 3. **Deploy self-maintaining systems** → GitHub Actions, scheduled jobs, error handling, ETL workflows
 4. **Deliver fresh insights automatically** → Dashboards that update themselves
 
-### Example: Automated FPL Analytics Pipeline (Check my FPL-Script-Automation Repository)
+### Example: Automated FPL Analytics Pipeline
 - Fetches data from API daily (zero manual work)
 - Cleans & processes 500+ records automatically
 - Updates predictive models and visualizations
@@ -31,13 +31,24 @@ I specialize in **automated data pipelines** and **self-updating analytics syste
 
 **Same methodology works for:** Sales reporting, marketing analytics, financial dashboards, customer insights - any business that needs fresh data regularly.
 
-
 ## 👨‍💻 Portfolio Projects
 Explore [My Portfolio](https://shegszz.github.io/).
 
 ## 🛠️ Skills & Technologies
 
-### 👩‍💻 Data Science and Machine Learning 
+### ⚙️ Data Transformation & Orchestration
+<p align="left">
+  &emsp;
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  </a>
+  &emsp;
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
+  </a>
+</p>
+
+### 👩‍💻 Data Science and Machine Learning
 <p align="left">    
   &emsp;
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -45,7 +56,7 @@ Explore [My Portfolio](https://shegszz.github.io/).
   </a> 
   &emsp; 
   <a href="https://matplotlib.org/" target="_blank"> 
-   <img alt="Matplotlib Logo" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40">
+   <img alt="Matplotlib" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40">
   </a> 
   &emsp; 
   <a href="https://numpy.org/" target="_blank"> 
@@ -53,27 +64,15 @@ Explore [My Portfolio](https://shegszz.github.io/).
   </a>
   &emsp; 
   <a href="https://seaborn.pydata.org/" target="_blank"> 
-   <img alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40">
-  </a>
-  &emsp;
-  <a href="https://www.nltk.org/" target="_blank"> 
-   <img alt="NLTK Logo" src="https://www.nltk.org/images/nltk.png" width="40" height="40">
+   <img alt="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40">
   </a>
   &emsp; 
   <a href="https://scikit-learn.org/" target="_blank"> 
-   <img alt="Scikit-learn Logo" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40">
-  </a>
-  &emsp;
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow Logo" src="https://www.tensorflow.org/images/tf_logo_social.png" width="40" height="40">
-  </a>
-  &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-   <img alt="Keras Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="40" height="40">
+   <img alt="Scikit-learn" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40">
   </a>
 </p>
 
-### 💹 Business Intelligence (BI) Tools
+### 💹 Business Intelligence
 <p align="left">
   &emsp;
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
@@ -82,14 +81,6 @@ Explore [My Portfolio](https://shegszz.github.io/).
   &emsp;
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-</p>
-
-### 🌐 Web Development
-<p align="left">
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
   </a>
 </p>
 
@@ -113,33 +104,19 @@ Explore [My Portfolio](https://shegszz.github.io/).
   </a>
 </p>
 
-### 📈 Spreadsheets (Excel and Google Sheets)
+### 📈 Spreadsheets & APIs
 <p align="left">
   &emsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/images/icons/product/excel-2020-72dp.png" alt="Microsoft Excel" width="40" height="40"/>
-</a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/images/icons/product/excel-2020-72dp.png" alt="Microsoft Excel" width="40" height="40"/>
+  </a>
   &emsp;
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/images/icons/product/sheets-2020-72dp.png" alt="Google Sheets" width="20" height="20"/>
-</a>
-</p>
-
-### 💻 IDEs
-<p align="left">
-  &emsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
-   &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"></a>
+    <img src="https://www.google.com/images/icons/product/sheets-2020-72dp.png" alt="Google Sheets" width="40" height="40"/>
   </a>
-</p>
-
-### 🎨 Design Tools
-<p align="left">
   &emsp;
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  <a href="https://developers.google.com/sheets/api" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Sheets API" width="40" height="40"/>
   </a>
 </p>
 
@@ -165,12 +142,3 @@ Let's connect and discuss potential opportunities! Reach out to me via [email](m
   <br/>
   <img alt="Segun's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Shegszz&theme=algolia" />
 </p>
-<br/>
-:trophy: Git Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shegszz&theme=algolia" alt="Shegszz's Trophies" />
-</p>
-
------
-Edited By: [Segun](https://x.com/Segun_B_)
